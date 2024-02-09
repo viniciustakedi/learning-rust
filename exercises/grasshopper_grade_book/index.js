@@ -1,0 +1,3 @@
+const lcm = function () {
+  
+};
