@@ -4,6 +4,13 @@ pub struct ListNode {
     pub next: Option<Box<ListNode>>,
 }
 
+impl ListNode {
+    #[inline]
+    fn new(val: i32) -> Self {
+        ListNode { next: None, val }
+    }
+}
+
 pub fn add_two_numbers<ListNode>(
     l1: Option<Box<ListNode>>,
     l2: Option<Box<ListNode>>,
