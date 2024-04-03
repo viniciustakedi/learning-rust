@@ -2,8 +2,8 @@
 
 ## Exercícios
 
-- [Exercícios em Rust](exercicios/)
+- [Exercícios em Rust](exercises/)
 
 ## Projetos
 
-- [Projetos em Rust (APIs, etc.)](projetos/)
+- [Projetos em Rust (APIs, etc.)](projects/)
